@@ -1,1 +1,2 @@
-ProductOfElems. VBNet Tutorials. DotNet Core Platform. Console Application. Arrays. Algorithms. Simple Input/Output. 
+ProductOfElems. VB.Net Tutorials. DotNet Core Platform. Simple Input/Output. Arrays. Algorithms. Console Application.   
+ProductOfElems. Занятия по VB.Net. Платформа DotNet Core. Простой Ввод/Вывод. Массивы. Алгоритмы. Консольное приложение.
